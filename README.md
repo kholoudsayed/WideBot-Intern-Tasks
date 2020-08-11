@@ -43,10 +43,16 @@ Know more about Binary Classification :
 Imports you need :
 
 pandas 
+
 numpy 
+
 matplotlib
+
 seaborn
+
 statistics 
+
 sklearn 
+
 keras.models
 
